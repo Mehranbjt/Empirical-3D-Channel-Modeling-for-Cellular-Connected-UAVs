@@ -1,2 +1,2 @@
-# Empirical-3D-Channel-Modeling-for-Cellular-Connected-UAVs
-Dataset for Empirical 3D Channel Modeling for Cellular-Connected UAVs
+# Empirical LTE Air-to-Ground (A2G) Channel Measurement Dataset for Cellular-Connected UAVs
+
