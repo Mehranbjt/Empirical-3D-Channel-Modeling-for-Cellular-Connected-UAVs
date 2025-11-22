@@ -1,6 +1,6 @@
 # Empirical LTE Air-to-Ground (A2G) Channel Measurement Dataset for Cellular-Connected UAVs
 
-This repository provides an empirical measurement dataset collected through extensive aerial UAV drive tests conducted within an operational Long-Term Evolution (LTE) cellular network deployment. The dataset is specifically designed for research in cellular-connected UAVs, air-to-ground (A2G) radio propagation, and machine learning-based 3D channel modelling.
+This repository provides both dataset and code for empirical air-to-ground (A2G) channel modelling based on extensive UAV drive tests over a live LTE network. It includes 95,000+ raw measurements, filtered into ~11,060 high-quality samples, featuring key RF metrics (RSRP, RSRQ, RSSI, Path Loss) and rich spatial metadata (log-scaled 2D/3D distances, azimuth/elevation angles, UAV altitude). Two Python scripts are provided for data cleaning, normalization, geometry extraction, and preparing ML-ready datasets. A triple-layer ML model used in the related research study can be shared upon request, enabling end-to-end workflows for UAV-based LTE channel analysis.
 
 **Dataset Summary**
 - Over 95,000 raw measurement samples collected
