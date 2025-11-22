@@ -38,3 +38,6 @@ A triple-layer ML model (used in the original research, Empirical 3D Channel Mod
 To request access, please contact:
 
 haideralobaidy@nahrainuniv.edu.iq
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17677745.svg)](https://doi.org/10.5281/zenodo.17677745)
+
